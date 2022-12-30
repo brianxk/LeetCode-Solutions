@@ -1,1 +1,1 @@
-Solution to problem description at: https://leetcode.com/problems/add-two-numbers/
+Solution to problem: https://leetcode.com/problems/add-two-numbers/
